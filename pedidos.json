@@ -1,0 +1,23 @@
+[
+    {
+        "codigo_pedido": 2,
+        "codigo_cliente": "1",
+        "fecha_pedido": "",
+        "detalles_pedido": [
+            {
+                "codigo_producto": "PS-003",
+                "nombre": "Pan de mantequilla",
+                "cantidad": 3,
+                "precio": 3.2,
+                "numero_linea": 1
+            },
+            {
+                "codigo_producto": "PS-003",
+                "nombre": "Pan de mantequilla",
+                "cantidad": 4,
+                "precio": 3.2,
+                "numero_linea": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "codigo_producto": "PN-001",
+        "nombre": "Pan Integral",
+        "categoria": "Pan",
+        "descripcion": "Pan de harina integral con semillas.",
+        "proveedor": "Panaderia Bizcochito",
+        "cantidad_en_stock": 8,
+        "precio_venta": 3.5,
+        "precio_proveedor": 2.0
+    },
+    {
+        "codigo_producto": "PS-002",
+        "nombre": "Pastel rico",
+        "categoria": "rico",
+        "descripcion": "rico",
+        "proveedor": "123",
+        "cantidad_en_stock": 123,
+        "precio_venta": 123,
+        "precio_proveedor": 123
+    },
+    {
+        "codigo_producto": "PS-003",
+        "nombre": "Pan de mantequilla",
+        "categoria": "Pan",
+        "descripcion": "Pan hornado con mantequilla.",
+        "proveedor": "Panaderia Bizcochito",
+        "cantidad_en_stock": 36,
+        "precio_venta": 3.2,
+        "precio_proveedor": 2.0
+    }
+]
